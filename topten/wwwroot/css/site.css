@@ -308,6 +308,9 @@ div.dataTables_wrapper div.dataTables_filter label {
     height:300px;
     background-color:white;
 }
+.logo{
+    min-width:300px;
+}
 footer p {
     text-align: center;
     color: rgba(255, 255, 255, 0.5);
